@@ -1,4 +1,4 @@
 <?php
 
-echo "versão 0.1.0";
+echo "versão 0.1.1";
 
